@@ -13,4 +13,6 @@ Login and register functionalities are fairly straightforward. However, missing 
 
 In this "beta" application, I've simplified the process by removing the complexity of various roles interacting with the application and generating intelligence reports. Instead, the system allows citizens to create, view, and close missing complaints. This simplification was made to showcase most CRUD operations while reducing complexity.
 
+Download the [demo video here](/First-Responders-Companion-Beta-Demo.mov).
+
 Bonus: Please check out my [web application deployment repository](https://github.com/sankalpgunturi/web-application-deployment) if you want to learn how to architect a system for web deployment. You can find Terraform code that I wrote to deploy them.
